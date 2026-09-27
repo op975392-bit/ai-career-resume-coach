@@ -1,0 +1,7 @@
+ai-resume-coach/
+│
+├── app.py
+├── requirements.txt
+├── .env
+├── .gitignore
+└── README.md
